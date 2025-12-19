@@ -70,14 +70,6 @@ I’m a **Professional Flutter developer** with 4+ years of real-world experienc
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khizarfarooqui\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khizarfarooqui\&layout=compact)
-
----
-
 ## 🤝 Open to Opportunities
 
 I’m open to:
