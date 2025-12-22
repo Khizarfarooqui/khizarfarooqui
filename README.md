@@ -51,12 +51,12 @@ I’m a **Professional Flutter developer** with 4+ years of real-world experienc
 
 ## 💼 What I Do Best
 
-* 📱 Build scalable Flutter apps with clean architecture
-* 🎯 Convert complex requirements into smooth user experiences
-* 🧩 Create reusable & maintainable UI components
-* ⚡ Optimize performance and app responsiveness
-* 🔐 Integrate secure authentication & payment systems
-* 🔄 Handle real-time features (live streaming, video calls, chat)
+* Build scalable Flutter apps with clean architecture
+* Convert complex requirements into smooth user experiences
+* Create reusable & maintainable UI components
+* Optimize performance and app responsiveness
+* Integrate secure authentication & payment systems
+* Handle real-time features (live streaming, video calls, chat)
 
 ---
 
