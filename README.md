@@ -24,8 +24,9 @@ I’m a **Professional Flutter developer** with 4+ years of real-world experienc
 **State Management**
 
 * GetX
+* Bloc
 * Provider
-* Riverpod (basic)
+* Riverpod
 
 **Backend & APIs**
 
